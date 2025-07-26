@@ -34,5 +34,6 @@ A web application that helps students find and join study groups based on specif
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/study-group-finder.git
-cd study-group-finder
+https://github.com/aleena127/DBMS_TEAM2_A1.git
+cd DBMS_TEAM2_A1
+[PeerPods Presentation.pdf](https://github.com/user-attachments/files/21441321/PeerPods.Presentation.pdf)
