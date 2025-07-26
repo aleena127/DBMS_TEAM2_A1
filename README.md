@@ -36,4 +36,4 @@ A web application that helps students find and join study groups based on specif
 ```bash
 https://github.com/aleena127/DBMS_TEAM2_A1.git
 cd DBMS_TEAM2_A1
-[PeerPods Presentation.pdf](https://github.com/user-attachments/files/21441321/PeerPods.Presentation.pdf)
+
