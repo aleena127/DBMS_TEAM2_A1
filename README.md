@@ -1,5 +1,5 @@
 # study-group-finder
-Peer_Pods
+PeerPods
 A web application that helps students find and join study groups based on specific courses and subjects. Designed to foster collaborative learning with a simple, course-focused interface and real-time chat (optional).
 
 🚀 Features
